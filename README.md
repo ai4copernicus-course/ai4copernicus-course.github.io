@@ -19,37 +19,37 @@ Basic knowledge of AI concepts and some familiarity with Earth Observation data 
 
 The program comprises the following modules:
 
-* **Module 1: Introduction to AI and EO Data** [Link to presentation]()
+* **Module 1: Introduction to AI and EO Data** [link](M01_Introduction_to_AI+EO.pdf)
   * The European EO ecosystem and the Copernicus programme
   * The European AI ecosystem and the AIoD platform
   * AI and EO initiatives and the AI4Copernicus project
-* **Module 2: AI and EO Data for Security** [Link to presentation]()
+* **Module 2: AI and EO Data for Security** [link](M02_AI+EO_4_Security.pdf)
   * The Classic Security concept
   * The New Security concept
   * AI in the Space and Security Domain
-* **Module 3: AI and EO Data for Agriculture** [Link to presentation]()
+* **Module 3: AI and EO Data for Agriculture** [link](M03_AI+EO_4_Agriculture.pdf)
   * Why Food Security & Agriculture?
   * AI & Remote Sensing in Food Security & Agriculture
   * Indicative scenarios
-* **Module 4: AI and EO Data for Health** [Link to presentation]()
+* **Module 4: AI and EO Data for Health** [link](M04_AI+EO_4_Health.pdf)
   * Air pollution and the effect on health 
   * The role of AI in air quality monitoring and the Copernicus CAMS service
   * Indicative scenarios
-* **Module 5: AI and EO Data for Energy** [Link to presentation]()
+* **Module 5: AI and EO Data for Energy** [link](M05_AI+EO_4_Energy.pdf)
   * Where can energy installations be built?
   * Where will there be energy demand?
   * How to improve renewable energy production efficiency?
-* **Module 6: Technical Services for AI and EO Data** [Link to presentation]()
+* **Module 6: Technical Services for AI and EO Data** [link](M06_Bootstrapping_Services.pdf)
   * Bootstrapping services targeting security, agriculture, and health domains
   * Preprocessing tools, AI services and ML models for EO Data
-* **Module 7: Semantic and QA tools for EO** [Link to presentation]()
+* **Module 7: Semantic and QA tools for EO** [link](M07_Linked_Data_and_EarthQA.pdf)
   * Semantic and linked data tools for EO (Tools for transformation, querying, interlinking, federating and visualizing big linked geospatial data)
   * The EarthQA question answering engine
-* **Module 8: Responsible AI Perspectives for AI and EO Data** [Link to presentation]()
+* **Module 8: Responsible AI Perspectives for AI and EO Data** [link](M08_Responsible_AI_perspectives.pdf)
   * Trustworthy AI perspectives: an overview 
   * AI Legal Aspects 
   * How to ensure that you AI&EO solution is Trustworthy ?
-* **Module 9: AI & EO  Business Aspects** [Link to presentation]()
+* **Module 9: AI & EO  Business Aspects** [link](M09_Business_perspectives_AI+EO.pdf)
   * Why AI matters for EO? 
   * Overview of the AI & Earth Observation Market & Trends 
   * Ecosystem approach for AI&EO companies  
